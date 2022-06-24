@@ -1,4 +1,5 @@
 # Kickstarting with Excel
+Note: The analysis for this project is done using Microsoft Excel per the course assignment. A Google Sheets version of this exercise is available at this [link](https://docs.google.com/spreadsheets/d/1uUfEns8cXFOpEkDU9x2qz302lodEJ1FB/edit?usp=sharing&ouid=113127303755755666272&rtpof=true&sd=true).
 
 ## Overview of Project
 
