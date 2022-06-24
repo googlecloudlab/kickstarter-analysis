@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-In this section I explain the purpose of the analysis.
+In this section I explain the purpose of the analysis. 
 
 In this analysis, we are using Excel for data analytics to demonstrate how data can be used to tell a story and answer specific questions. We use Excel to:
 
@@ -22,6 +22,7 @@ For the Challenge in Module 1, we are building on data analysis that was perform
 
 ## Analysis and Challenges
 
+The analysis is performed in an Excel file. You can follow along in the analysis by downloading and opening the [Kickstarter_Challenge.xlsx](resources/Kickstarter_Challenge.xlsx) file.
 To analyse the Kickstarter data, we perform the following steps building on the lessons in the module:
 - Create a new column "Years" using the `YEAR()` function in Excel and extract the year based on data in the "Date Created Conversion" column.
 - Create a pivot table.
